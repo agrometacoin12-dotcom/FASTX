@@ -438,7 +438,7 @@ I will guide you step by step. Here are the core actions ready:
                   <span className="text-emerald-400 font-mono text-sm border border-emerald-500/20 w-7 h-7 flex items-center justify-center shrink-0">01</span>
                   <div>
                     <h4 className="text-[11px] uppercase tracking-widest font-mono font-bold text-slate-200">Link Secure Number</h4>
-                    <p className="text-xs text-white/50 mt-1">Bind your automated enterprise number to clear settlement lines.</p>
+                    <p className="text-xs text-white/50 mt-1">Bind your Whatsapp number to clear settlement lines.</p>
                   </div>
                 </div>
 
@@ -507,7 +507,7 @@ I will guide you step by step. Here are the core actions ready:
               <span className="text-[10px] uppercase tracking-widest text-[#10b981] font-mono block">SYSTEM ARCHITECTURE</span>
               <h2 className="text-3xl md:text-4xl font-light italic font-display text-white">The Core Mechanics</h2>
               <p className="text-sm text-white/40 max-w-xl font-sans">
-                Explore the underlying server-side structures powered by Gemini API vision modeling and CBN instant payout pipelines.
+                Explore the underlying server-side structures powered by FastXspend vision modeling and CBN instant payout pipelines.
               </p>
             </div>
 
