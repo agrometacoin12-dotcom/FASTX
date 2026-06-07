@@ -1,0 +1,6 @@
+{
+  "name": "FastXpend WhatsApp Transactions",
+  "description": "DIRECT.OS represents Zero UI secure financial clearing. Distill conversions, bank payouts, and utility recharges into a single WhatsApp-based thread with Gemini-powered vision and audio transcription.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
