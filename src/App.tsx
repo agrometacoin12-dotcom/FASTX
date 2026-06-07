@@ -657,7 +657,7 @@ Would you like to *convert crypto* or *withdraw money* to your bank? Let me know
               <span className="text-[10px] uppercase tracking-widest text-[#10b981] font-mono block">SYSTEM ARCHITECTURE</span>
               <h2 className="text-3xl md:text-4xl font-light italic font-display text-white">The Core Mechanics</h2>
               <p className="text-sm text-white/40 max-w-xl font-sans">
-                Explore the underlying server-side structures powered by Gemini API vision modeling and CBN instant payout pipelines.
+                Explore the underlying server-side structures powered by FastXspend vision modeling and CBN instant payout pipelines.
               </p>
             </div>
 
